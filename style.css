@@ -1,0 +1,49 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+	background: rgb(228,91,161);
+	background: linear-gradient(90deg, rgba(228,91,161,1) 20%, rgba(222,31,144,1) 43%, rgba(255,255,255,1) 86%);
+}
+
+.header
+{
+	color: white;font-family: 'Georgia ';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 100px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(228, 156, 195, 0.8);float: none;border-radius: 15px;
+	font-family: monospace;
+}
+
+.logo
+{
+	width: 80px;
+	margin-top: 30px;
+	border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;
+	border-radius: 25px;
+}
+footer {
+	background-color: rgb(175, 166, 171);
+	color: white;
+	padding: 15px;
+	width:550px;
+	border-width: 8px;
+	border-radius: 10px;
+	font-family: monospace;
+  }
+
